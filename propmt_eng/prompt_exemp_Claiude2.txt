@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=hkhDdcM5V94 21
+
+xml instead than markdown
+
+
+hugging Face, AutoGen, CrewAI, LangChain, N8N, OpenAI Agents SDK, LangGraph, Gradio, MCP
+
+https://www.youtube.com/watch?v=j5Zsa_eOXeY 34:39
+layerci for test on github  29:30
+cypress for test
+

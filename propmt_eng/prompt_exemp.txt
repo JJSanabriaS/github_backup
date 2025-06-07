@@ -1,0 +1,89 @@
+https://www.youtube.com/watch?v=MTy8YberKuk 21
+import data
+made time series analysis with ia, such nlp first descriptive stats
+
+
+https://www.youtube.com/watch?v=1VDcke66TRE 1:10
+recomendacoes
+ 1 sinalizar o papel da ia, como sim fosse uma pessoa
+ 2 definir tarefa real
+ 3 objetivo 
+ 4 modelo como a saida
+ 5 panorama para quem, particularidades do cliente
+ 6 transformar melhore o produto
+ 
+ processo
+  defina tarefa e criterios de sucesso
+  desenvolva casos de teste
+  escreva o prompt inicial
+  teste contra exemplos
+  refine o prompt
+  producao
+  
+ 
+  tecnicas
+   markdown
+   divide text
+   zero shot
+   estimulo de prompt inicial
+   few shot
+   cadeia de pensamento
+   cadeia de pensamento constrativa
+   consistencia propia
+   arvore de pensamento
+   esqueleto de pensamento
+   geracao de conhecimento
+   prompt mayeutico
+   geracao aumentada de recuperacao
+   modelos assistidos com programacao
+   react 
+   
+  halucinaciones
+   conf chatgpt 1:04:00
+   
+   exemplo markdiwb
+   
+   <instruc>
+   #objetivo
+   
+   #funcao
+   
+   #interacao usuario
+   
+   #base conhecimento
+   
+   #regras
+   
+   #processo
+   
+   
+   
+   </instruc>
+   
+   
+  
+   
+   7cliente
+   
+   dor: problema a resolver
+   desejo: intencao de resolver
+   dinheiro: dinero para tal
+   decisao: e quem decide
+   datas: quer fazer agora
+   desempenho vc sabe como resolver
+   demais: e demais trabalhar com ele
+   
+   
+   
+   
+   
+   
+   
+   chat hub
+   chat base
+   
+   
+   
+   
+ 
+  
